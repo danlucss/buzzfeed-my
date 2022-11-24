@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url(https://static.quizur.com/i/b/560d44064e92e5.06492622560d4406316ad5.24634845.jpg)
+    no-repeat center center fixed;
+  background-size: 60%;
+  color: #fff;
+  background-color: rgb(68, 68, 68);
+}
